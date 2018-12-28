@@ -1934,7 +1934,7 @@ img:hover {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #adff2f;
+  background: #2aff1a;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2948,24 +2948,6 @@ a:hover {
 }
 .post-gallery .post-gallery-img img {
   padding: 3px;
-}
-code {
-  margin: 0px 4px;
-}
-.highlight figcaption {
-  margin: 0em;
-  padding: 0.5em;
-  background: #eee;
-  border-bottom: 1px solid #e9e9e9;
-}
-.highlight figcaption a {
-  color: #5073b8;
-}
-pre .addition {
-  background: #e6ffed;
-}
-pre .deletion {
-  background: #ffeef0;
 }
 .sidebar-toggle {
   right: 10px;
