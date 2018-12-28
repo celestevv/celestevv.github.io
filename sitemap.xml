@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://celestevv.github.io/hello-world.html</loc>
+    
+    <lastmod>2018-12-28T10:06:58.829Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://celestevv.github.io/tags/tags.html</loc>
     
     <lastmod>2018-12-28T10:03:19.703Z</lastmod>
@@ -33,13 +40,6 @@
     <loc>https://celestevv.github.io/Categories/index.html</loc>
     
     <lastmod>2018-12-28T07:56:34.860Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://celestevv.github.io/hello-world.html</loc>
-    
-    <lastmod>2018-12-27T15:27:20.720Z</lastmod>
     
   </url>
   
